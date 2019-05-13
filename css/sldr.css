@@ -31,8 +31,8 @@ a:link, a:visited {
 		}
 		a:hover, a:active {
 		    background-color: black;
-		}
-		*/
+		}*/
+		
 @keyframes cambio{
     0%{margin-left:0;}
     10%{margin-left: -100%;}
